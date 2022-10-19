@@ -35,3 +35,5 @@ Here's a link to the story on Tableau Public: [CitiBike Sotry](https://public.ta
 ## Summary
 
 The data shows that a majority of the users are men and that commuting times greatly affect the usage of CitiBikes. There could be some research done into why more women aren't using the service, and some action done to reach that demographic. We also see that weekday commuting hours greatly affect the usage of bikes. While we saw that 2AM-5AM is the lowest point of usage for the bikes, finding employees to repair bikes during that time would be it's own task. Having the program inbtween 10am-4pm would be easier to staff.
+
+In order to properly plan for this program, we could test of some visualizations of where bikes are during those hours and how long they spend at those locaitons. Having a mobile repair truck to assess minor repair and mantenance could be effective in keeping the fleet in good working order.
